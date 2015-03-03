@@ -1,0 +1,240 @@
+[SYSTEM TABLE]
+Number of Packets in Table 6
+Version 023
+
+Ground Station ID 1 SAN FRANCISCO - CALIFORNIA UTC UNLOCKED
+Longitude 121 45 34  W  Latitude 38 22 48  N 
+Squitter Version 0
+Number of frequencies 10
+Frequency 21934000 Hz Master Frame Slot 4
+Frequency 17919000 Hz Master Frame Slot 12
+Frequency 13276000 Hz Master Frame Slot 8
+Frequency 11327000 Hz Master Frame Slot 4
+Frequency 10081000 Hz Master Frame Slot 4
+Frequency 8927000 Hz Master Frame Slot 12
+Frequency 6559000 Hz Master Frame Slot 8
+Frequency 5508000 Hz Master Frame Slot 4
+Frequency 4672000 Hz Master Frame Slot 4
+Frequency 2947000 Hz Master Frame Slot 12
+
+Ground Station ID 2 MOLOKAI - HAWAII UTC UNLOCKED
+Longitude 157 10 46  W  Latitude 21 10 47  N 
+Squitter Version 0
+Number of frequencies 20
+Frequency 21937000 Hz Master Frame Slot 0
+Frequency 21928000 Hz Master Frame Slot 0
+Frequency 17934000 Hz Master Frame Slot 7
+Frequency 17919000 Hz Master Frame Slot 7
+Frequency 13324000 Hz Master Frame Slot 3
+Frequency 13312000 Hz Master Frame Slot 3
+Frequency 13276000 Hz Master Frame Slot 3
+Frequency 11348000 Hz Master Frame Slot 11
+Frequency 11312000 Hz Master Frame Slot 11
+Frequency 10081000 Hz Master Frame Slot 11
+Frequency 8936000 Hz Master Frame Slot 1
+Frequency 8912000 Hz Master Frame Slot 1
+Frequency 6565000 Hz Master Frame Slot 0
+Frequency 6559000 Hz Master Frame Slot 0
+Frequency 5514000 Hz Master Frame Slot 7
+Frequency 5463000 Hz Master Frame Slot 7
+Frequency 4687000 Hz Master Frame Slot 7
+Frequency 3434000 Hz Master Frame Slot 3
+Frequency 3019000 Hz Master Frame Slot 3
+Frequency 2947000 Hz Master Frame Slot 3
+
+Ground Station ID 3 REYKJAVIK - ICELAND UTC UNLOCKED
+Longitude 21 50 59  W  Latitude 64 4 47  N 
+Squitter Version 0
+Number of frequencies 8
+Frequency 17985000 Hz Master Frame Slot 11
+Frequency 15025000 Hz Master Frame Slot 7
+Frequency 11184000 Hz Master Frame Slot 3
+Frequency 8977000 Hz Master Frame Slot 0
+Frequency 6712000 Hz Master Frame Slot 11
+Frequency 5720000 Hz Master Frame Slot 7
+Frequency 3900000 Hz Master Frame Slot 3
+Frequency 3116000 Hz Master Frame Slot 3
+
+Ground Station ID 4 RIVERHEAD - NEW YORK UTC UNLOCKED
+Longitude 72 38 22  W  Latitude 40 52 47  N 
+Squitter Version 0
+Number of frequencies 20
+Frequency 21934000 Hz Master Frame Slot 1
+Frequency 21931000 Hz Master Frame Slot 1
+Frequency 17952000 Hz Master Frame Slot 9
+Frequency 17934000 Hz Master Frame Slot 9
+Frequency 17919000 Hz Master Frame Slot 9
+Frequency 13276000 Hz Master Frame Slot 5
+Frequency 11387000 Hz Master Frame Slot 1
+Frequency 11354000 Hz Master Frame Slot 1
+Frequency 11315000 Hz Master Frame Slot 1
+Frequency 10027000 Hz Master Frame Slot 1
+Frequency 8912000 Hz Master Frame Slot 9
+Frequency 8885000 Hz Master Frame Slot 9
+Frequency 8831000 Hz Master Frame Slot 9
+Frequency 6661000 Hz Master Frame Slot 5
+Frequency 6652000 Hz Master Frame Slot 5
+Frequency 6646000 Hz Master Frame Slot 5
+Frequency 5652000 Hz Master Frame Slot 1
+Frequency 5523000 Hz Master Frame Slot 1
+Frequency 3428000 Hz Master Frame Slot 9
+Frequency 3410000 Hz Master Frame Slot 9
+
+Ground Station ID 5 AUCKLAND - NEW ZEALAND UTC UNLOCKED
+Longitude 174 48 35  E  Latitude 37 1 10  S 
+Squitter Version 0
+Number of frequencies 10
+Frequency 21949000 Hz Master Frame Slot 4
+Frequency 17916000 Hz Master Frame Slot 12
+Frequency 13351000 Hz Master Frame Slot 8
+Frequency 11327000 Hz Master Frame Slot 4
+Frequency 10084000 Hz Master Frame Slot 4
+Frequency 8921000 Hz Master Frame Slot 12
+Frequency 6535000 Hz Master Frame Slot 8
+Frequency 5583000 Hz Master Frame Slot 4
+Frequency 3404000 Hz Master Frame Slot 12
+Frequency 3016000 Hz Master Frame Slot 12
+
+Ground Station ID 6 HAT YAI - THAILAND UTC UNLOCKED
+Longitude 100 23 24  E  Latitude 6 56 23  N 
+Squitter Version 0
+Number of frequencies 9
+Frequency 21949000 Hz Master Frame Slot 10
+Frequency 17928000 Hz Master Frame Slot 6
+Frequency 13270000 Hz Master Frame Slot 2
+Frequency 10066000 Hz Master Frame Slot 10
+Frequency 8825000 Hz Master Frame Slot 6
+Frequency 6535000 Hz Master Frame Slot 2
+Frequency 5655000 Hz Master Frame Slot 10
+Frequency 4687000 Hz Master Frame Slot 10
+Frequency 3470000 Hz Master Frame Slot 6
+
+Ground Station ID 7 SHANNON - IRELAND UTC UNLOCKED
+Longitude 8 55 46  W  Latitude 52 43 48  N 
+Squitter Version 0
+Number of frequencies 8
+Frequency 11384000 Hz Master Frame Slot 2
+Frequency 10081000 Hz Master Frame Slot 2
+Frequency 8942000 Hz Master Frame Slot 6
+Frequency 8843000 Hz Master Frame Slot 6
+Frequency 6532000 Hz Master Frame Slot 10
+Frequency 5547000 Hz Master Frame Slot 2
+Frequency 3455000 Hz Master Frame Slot 6
+Frequency 2998000 Hz Master Frame Slot 6
+
+Ground Station ID 8 JOHANNESBURG - SOUTH AFRICA UTC UNLOCKED
+Longitude 28 12 35  E  Latitude 26 7 46  S 
+Squitter Version 0
+Number of frequencies 5
+Frequency 21949000 Hz Master Frame Slot 10
+Frequency 13321000 Hz Master Frame Slot 6
+Frequency 8834000 Hz Master Frame Slot 10
+Frequency 4681000 Hz Master Frame Slot 2
+Frequency 3016000 Hz Master Frame Slot 2
+
+Ground Station ID 9 BARROW - ALASKA UTC UNLOCKED
+Longitude 156 46 46  W  Latitude 71 18 0  N 
+Squitter Version 0
+Number of frequencies 19
+Frequency 21937000 Hz Master Frame Slot 10
+Frequency 21928000 Hz Master Frame Slot 10
+Frequency 17934000 Hz Master Frame Slot 6
+Frequency 17919000 Hz Master Frame Slot 6
+Frequency 11354000 Hz Master Frame Slot 2
+Frequency 10093000 Hz Master Frame Slot 2
+Frequency 10027000 Hz Master Frame Slot 2
+Frequency 8936000 Hz Master Frame Slot 10
+Frequency 8927000 Hz Master Frame Slot 10
+Frequency 6646000 Hz Master Frame Slot 6
+Frequency 5544000 Hz Master Frame Slot 2
+Frequency 5538000 Hz Master Frame Slot 2
+Frequency 5529000 Hz Master Frame Slot 2
+Frequency 4687000 Hz Master Frame Slot 2
+Frequency 4654000 Hz Master Frame Slot 2
+Frequency 3497000 Hz Master Frame Slot 10
+Frequency 3007000 Hz Master Frame Slot 10
+Frequency 2992000 Hz Master Frame Slot 10
+Frequency 2944000 Hz Master Frame Slot 10
+
+Ground Station ID 11 PANAMA - PANAMA UTC UNLOCKED
+Longitude 79 32 59  W  Latitude 8 58 12  N 
+Squitter Version 0
+Number of frequencies 8
+Frequency 21940000 Hz Master Frame Slot 10
+Frequency 17901000 Hz Master Frame Slot 6
+Frequency 13264000 Hz Master Frame Slot 2
+Frequency 10063000 Hz Master Frame Slot 10
+Frequency 8894000 Hz Master Frame Slot 6
+Frequency 6589000 Hz Master Frame Slot 2
+Frequency 5589000 Hz Master Frame Slot 10
+Frequency 2902000 Hz Master Frame Slot 6
+
+Ground Station ID 14 KRASNOYARSK - RUSSIA UTC UNLOCKED
+Longitude 92 18 0  E  Latitude 56 6 0  N 
+Squitter Version 0
+Number of frequencies 10
+Frequency 21990000 Hz Master Frame Slot 4
+Frequency 17912000 Hz Master Frame Slot 12
+Frequency 13321000 Hz Master Frame Slot 8
+Frequency 10087000 Hz Master Frame Slot 4
+Frequency 8886000 Hz Master Frame Slot 12
+Frequency 6596000 Hz Master Frame Slot 8
+Frequency 5622000 Hz Master Frame Slot 4
+Frequency 4679000 Hz Master Frame Slot 4
+Frequency 2905000 Hz Master Frame Slot 12
+Frequency 2878000 Hz Master Frame Slot 12
+
+Ground Station ID 13 SANTA CRUZ - BOLIVIA UTC UNLOCKED
+Longitude 63 7 46  W  Latitude 17 40 11  S 
+Squitter Version 0
+Number of frequencies 12
+Frequency 21997000 Hz Master Frame Slot 3
+Frequency 21988000 Hz Master Frame Slot 3
+Frequency 21973000 Hz Master Frame Slot 3
+Frequency 21946000 Hz Master Frame Slot 3
+Frequency 17916000 Hz Master Frame Slot 11
+Frequency 13315000 Hz Master Frame Slot 7
+Frequency 11318000 Hz Master Frame Slot 3
+Frequency 8957000 Hz Master Frame Slot 11
+Frequency 6628000 Hz Master Frame Slot 7
+Frequency 4660000 Hz Master Frame Slot 3
+Frequency 3467000 Hz Master Frame Slot 11
+Frequency 2983000 Hz Master Frame Slot 11
+
+Ground Station ID 16 AGANA - GUAM UTC UNLOCKED
+Longitude 144 48 0  E  Latitude 13 28 11  N 
+Squitter Version 0
+Number of frequencies 7
+Frequency 17919000 Hz Master Frame Slot 9
+Frequency 13312000 Hz Master Frame Slot 5
+Frequency 11306000 Hz Master Frame Slot 1
+Frequency 11288000 Hz Master Frame Slot 1
+Frequency 8927000 Hz Master Frame Slot 5
+Frequency 6652000 Hz Master Frame Slot 1
+Frequency 5451000 Hz Master Frame Slot 9
+
+Ground Station ID 15 AL MUHARRAQ - BAHRAIN UTC UNLOCKED
+Longitude 50 39 0  E  Latitude 26 16 12  N 
+Squitter Version 0
+Number of frequencies 8
+Frequency 21982000 Hz Master Frame Slot 1
+Frequency 17967000 Hz Master Frame Slot 9
+Frequency 13354000 Hz Master Frame Slot 5
+Frequency 11312000 Hz Master Frame Slot 1
+Frequency 10075000 Hz Master Frame Slot 1
+Frequency 8885000 Hz Master Frame Slot 9
+Frequency 5544000 Hz Master Frame Slot 5
+Frequency 2986000 Hz Master Frame Slot 1
+
+Ground Station ID 17 CANARIAS - SPAIN  UTC UNLOCKED
+Longitude 15 23 23  W  Latitude 27 56 59  N 
+Squitter Version 0
+Number of frequencies 8
+Frequency 21955000 Hz Master Frame Slot 4
+Frequency 17928000 Hz Master Frame Slot 12
+Frequency 13303000 Hz Master Frame Slot 8
+Frequency 11348000 Hz Master Frame Slot 4
+Frequency 8948000 Hz Master Frame Slot 12
+Frequency 6529000 Hz Master Frame Slot 8
+Frequency 5589000 Hz Master Frame Slot 4
+Frequency 2905000 Hz Master Frame Slot 12

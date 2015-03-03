@@ -1,0 +1,18 @@
+avia dipol
+*
+126.0
+***Wires***
+1
+0.0,	0.0,	0.55,	0.0,	0.0,	-0.55,	0.025,	-1
+***Source***
+1,	1
+w1c,	0.0,	1.0
+***Load***
+0,	1
+***Segmentation***
+400,	40,	2.0,	1
+***G/H/M/R/AzEl/X***
+0,	0.0,	0,	75.0,	120,	60,	0.0
+###Comment###
+Mod by Vladimir, RA1AHQ 13.11.2010 0:20:56
+Created by Vladimir, RA1AHQ 13.11.2010 0:19:25

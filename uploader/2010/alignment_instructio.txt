@@ -1,0 +1,211 @@
+Preface
+
+The following document was faxed to me by Vertex and I have hand typed it into this document. My VX-6 had excessive CTCSS deviation out of the box on 440 Mhz and rather than send it in they offered this since I have access to the proper test equipment.
+
+The way some parts are worded I think they were taken from a generic template and do not apply to the VX-6.
+
+
+Introduction
+
+The VX-6R is carefully aligned at the factory for the specified performance across the amateur band. Realignment should therefore not be necessary except in the event of a component failure. Only an authorized VERTEX STANDARD representative should perform all component replacement and service, or the warranty policy may be void. The following procedures cover the adjustments that are not normally required once the transceiver has left the factory. However, if damage occurs and some parts subsequently are replaced, realignment may be required. If a sudden problem occurs during normal operation, it is likely due to component failure; realignment should not be done until after the faulty component has been replaced. We recommend that servicing be performed only by authorized VERTEX STANDARD service technicians who are experienced with the circuitry and fully equipped for repair and alignment. If a fault is suspected, contact the dealer from whom the transceiver was purchased for instructions regarding repair. Authorized VERTEX STANDARD service technicians realign all circuits and make complete performance checks to ensure compliance with factory specifications after replacing any faulty components. Those who do undertake any of the following alignments are cautioned to proceed at their own risk. Problems caused by unauthorized attempts at realignment are not covered by the warranty policy. Also, VERTEX STANDARD reserves the right to change circuits and alignment procedures in the interest of improved performance, without notifying owners.
+
+Under no circumstances should any alignment be attempted unless the normal function and operation of the transceiver are clearly understood, the cause of the malfunction has been clearly pinpointed and any faulty components replaced, and realignment determined to be absolutely necessary.
+
+The following test equipment (and familiarity with its use) is necessary for complete realignment. Correction of problems caused by misalignment resulting from use of improper test equipment is not covered under the warranty policy. While most steps do not require all the equipment listed, the interactions of some adjustments may require that more complex adjustments be performed afterwards. Do not attempt to perform only a single step unless it is clearly isolated electrically from all other steps. Have all test equipment ready before beginning and follow all of the steps in a section in the order presented.
+Required Test Equipment
+RF Signal Generator with calibrated output level at 500 Mhz 
+Deviation Meter (linear detector) 
+In-line Wattmeter with 5% accuracy at 500 Mhz 
+50-ohm, 10W Dummy Load 
+8-ohm AF Dummy Load 
+Regulated DC Power Supply adjustable from 3 to 15 VDC, 3A 
+Frequency Counter: 0.2-ppm accuracy at 500 Mhz 
+AF Signal Generator 
+AC Voltmeter 
+DC Voltmeter; high impedance 
+UHF Sampling Coupler 
+SINAD Meter 
+Alignment Preparation and Precautions
+
+A 10W RF dummy load and in-line wattmeter must be connected to the main antenna jack in all procedures that call for transmission, alignment is not possible with an antenna. After completing one step, read the next step to see if the same test equipment is required. If not, remove the test equipment (except dummy load and wattmenter, if connected) before proceeding.
+
+Correct alignment requires that the ambient temperature be the same as that of the transceiver and test equipment, and that this temperature be held constant between 68-86 F (20-30 C). When the transceiver is brought into the shop from hot or cold air, it should be allowed some time to come to room temperature before alignment. Whenever possible, alignments should be made with oscillator shields and circuit boards firmly affixed in place. Also, the test equipment must be thoroughly warmed up before beginning.
+
+Note: Signal levels in dB referred to in the alignment procedure are based on 0 dBu=0.5 uV (closed circuit).
+Test Setup
+
+Set up the test equipment as shown below for the transceiver alignment, and apply 8.9 VDC power to the transceiver. Refer to the drawings for Alignment Points.
+
+
+The picture shows a standard setup for hookup to the inputs and outputs needed.
+8.9VDC is supplied through the regular DC input for the car adapter or supplied charger.
+Use only a filtered supply not the ??????Wall Wart?????? that is used for charging. There are no drawings for ??????alignment points?????? in this document.
+
+
+Alignment-Internal System Alignment Routine
+
+This uses a programmed routine in the transceiver which simplifies many previously complex discrete component settings and adjustments with digitally-controlled settings via front panel buttons and LCD indications.
+
+To begin set the transceiver to the center of the 144 Mhz, 220 Mhz, and 430 Mhz bands. Next, select the 430 Mhz band, then turn the transceiver off.
+
+Now, press and hold the [BAND], [WIRES] (left lower) and [0] buttons (at the same time) while powering the radio on again. The display will show the first setting.
+
+Note: that the first few settings are not adjustable and are left as set from the factory.
+
+In the alignment process, each adjustment is selected by rotating the DIAL. Alignment is performed by:
+
+Pressing the [V/M] button;
+Injecting a signal of the required frequency and level;
+then
+Pressing the [V/M] button after a level setting or adjustment is made. This second pressing of the [V/M] button stores the entry.
+
+To exit the alignment routine press the [HOME] button. After performing the system alignment in its entirety, individual settings can be returned to and adjust should the need arise.
+
+In the section to follow, typical default values (as set at the factory) are shown in brackets (e.g. [119]), to serve as a general guideline. As each transceiver is individually optimized at the factory, the precise setting for the transceiver on your bench may be slightly different.
+
+PLL Reference Frequency (REF)
+Press the [V/M] button, then transmit and adjust the counter frequency to 440.000 (+-300Hz) by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+430 Mhz band Alignment
+
+Squelch Preset Threshold (THL) [167]
+Press the [V/M] button, then inject a -12.0 dBu RF signal (1kHz tone @3.5kHz deviation), then rotate the DIAL for minimum squelch hysteresis, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+Squelch Preset Tight (TLG) [136]
+Press the [V/M] button, then adjust the generator level to -4.0 dBu, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+S-Meter S-1 Adjustment (S1) [27]
+Press the [V/M] button, then adjust the generator level to -8 dBu (1Khz tone @ +-300 kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+S-Meter Full-Scale Adjustment (S9) [66]
+Press the [V/M] button, then adjust the generator level to +20 dBu (1 kHz tone @ 3.5 Khz deviation), then press the [V/M] button. Rotate the DIAL to select the n ext setting.
+
+Wide-FM S-Meter S-1 Adjustment (S1) [53]
+Press the [V/M] button, then adjust the generator level to 0 dBu (1 kHz tone @ +-20 kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+Wide-FM S-Meter Full-Scale Adjustment (S9) [77]
+Press the [V/M] button, then adjust the generator level to +20 dBu (1 kHz tone @ +-20 kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+High TX Power Adjustment (HP) [220]
+Press the [V/M] button, then transmit, and adjust the output power level for 5.0 W +-.3 W by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+LOW3 Tx Power Adjustment (LP3) [166]
+Press the [V/M] button, then transmit, and adjust the output power level for 2.5 W +-.2 W by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+L2 Tx Power Adjustment (LP2) [125]
+Press the [V/M] button, then transmit, and adjust the output power level for 1.0 W +-0.1 W by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+L1 Tx Power Adjustment (LP1) [85]
+Press the [V/M] button, then transmit, and adjust the output power level for 0.3 W +-0.1 W by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+TX Deviation Adjustment (DEU) [65]
+Inject a 1 kHz audio tone at a level of 50 mV (rms) to the MIC jack. Press the [V/M] button, then transmit and adjust the deviation for 4.2 kHz +-0.2 kHz by rotating DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+CTCSS Tx Deviation Adjustment (100) [15]
+Press the [V/M] button, then transmit and adjust the deviation for .6 kHz +-0.05 kHz by rotating DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+DCS Tx Deviation Adjustment (DCS) [15]
+Press the [V/M] button, then transmit and adjust the deviation for 0.6 kHz +-0.5kHz by rotating DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+This completes the 430 Mhz band internal alignment routine; press the [BAND] button to activate the 50 Mhz band internal alignment routine.
+50 Mhz band Alignment
+
+Squelch Preset Threshold (THL) [156]
+Press the [V/M] button, then inject a -8.0 dBu RF signal (1 kHz tone @ 3.5 kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+Squelch Preset Tight (TLG) [124]
+Press the [V/M] button, then adjust the generator level to 0 dBu, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+S-Meter S-1 Adjustment (S1) [40]
+Press the [V/M] button, then adjust the generator level to -3.0 dBu (1 kHz tone @ +-3.5 kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+S-Meter Full-scale Adjustment (S9) [71]
+Press the [V/M] button, then adjust the generator level to +20 dBu (1 kHz tone @ +-3.5kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+Wide-FM S-Meter S-1 Adjustment (S1) [62]
+Press the [V/M] button, then adjust the generator level to +8 dBu (1 kHz tone @ +-20 kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+Wide-FM S-Meter Full-Scale Adjustment (S9) [83]
+Press the [V/M] button, then adjust the generator level to +25 dBu (1 kHz tone @ +-20 kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+This completes the 50 Mhz band internal alignment routine; press the [BAND] button to activate the 145 Mhz band internal alignment routine.
+144 Mhz Band Alignment
+
+Squelch Preset Threshold (THL) [171]
+Press the [V/M] button, then inject a -12.0 dBu RF signal (1 kHz tone @ +-3.5 kHz deviation, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+Squelch Preset Tight (TLG) [142]
+Press the [V/M] button, then adjust the generator level to -4.0 dBu, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+S-Meter S-1 Adjustment (S1) [27]
+Press the [V/M] button, then adjust the generator level to -8.0 dBu (1 kHz tone @ +-3.5 kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+S-Meter Full-scale Adjustment (S9) [65]
+Press the [V/M] button, then adjust the generator level to +20 dBu (1 kHz tone @ +-3.5kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+Wide-FM S-Meter S-1 Adjustment (S1) [55]
+Press the [V/M] button, then adjust the generator level to 0 dBu (1 kHz tone @ +-20 kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+Wide-FM S-Meter Full-Scale Adjustment (S9) [79]
+Press the [V/M] button, then adjust the generator level to +20 dBu (1 kHz tone @ +-20 kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+High TX Power Adjustment (HP) [198]
+Press the [V/M] button, then transmit, and adjust the output power level for 5.0 W +-.3 W by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+LOW3 Tx Power Adjustment (LP3) [159]
+Press the [V/M] button, then transmit, and adjust the output power level for 2.5 W +-.2 W by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+L2 Tx Power Adjustment (LP2) [124]
+Press the [V/M] button, then transmit, and adjust the output power level for 1.0 W +-0.1 W by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+L1 Tx Power Adjustment (LP1) [96]
+Press the [V/M] button, then transmit, and adjust the output power level for 0.3 W +-0.1 W by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+TX Deviation Adjustment (DEU) [100]
+Inject a 1 kHz audio tone at a level of 50 mV (rms) to the MIC jack. Press the [V/M] button, then transmit and adjust the deviation for 4.2 kHz +-0.2 kHz by rotating DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+CTCSS Tx Deviation Adjustment (100) [18]
+Press the [V/M] button, then transmit and adjust the deviation for .6 kHz +-0.05 kHz by rotating DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+DCS Tx Deviation Adjustment (DCS) [56]
+Press the [V/M] button, then transmit and adjust the deviation for 0.6 kHz +-0.5kHz by rotating DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+This completes the 144 Mhz band internal alignment routine; press the [BAND] button to activate the 220 Mhz band internal alignment routine.
+220 Mhz Band Alignment
+
+Squelch Preset Threshold (THL) [167]
+Press the [V/M] button, then inject a -12.0 dBu RF signal (1 kHz tone @ +-3.5 kHz deviation, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+Squelch Preset Tight (TLG) [138]
+Press the [V/M] button, then adjust the generator level to -4.0 dBu, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+S-Meter S-1 Adjustment (S1) [27]
+Press the [V/M] button, then adjust the generator level to -8.0 dBu (1 kHz tone @ +-3.5 kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+S-Meter Full-scale Adjustment (S9) [66]
+Press the [V/M] button, then adjust the generator level to +20 dBu (1 kHz tone @ +-3.5kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+Wide-FM S-Meter S-1 Adjustment (S1) [53]
+Press the [V/M] button, then adjust the generator level to 0 dBu (1 kHz ton e @ +-20 kHz deviation), then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+High TX Power Adjustment (HP) [132] (USA version only)
+Press the [V/M] button, then transmit, and adjust the output power level for 1.5 W +-0.3 W by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+LOW3 Tx Power Adjustment (LP3) [120] (USA version only)
+Press the [V/M] button, then transmit, and adjust the output power level for 1.0 W +-.2 W by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+L2 Tx Power Adjustment (LP2) [103] (USA version only)
+Press the [V/M] button, then transmit, and adjust the output power level for 0.5 W +-0.1 W by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+L1 Tx Power Adjustment (LP1) [88] (USA version only)
+Press the [V/M] button, then transmit, and adjust the output power level for 0.2 W +-0.1 W by rotating the DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+TX Deviation Adjustment (DEU) [62] (USA version only)
+Inject a 1 kHz audio tone at a level of 50 mV (rms) to the MIC jack. Press the [V/M] button, then transmit and adjust the deviation for 4.2 kHz +-0.2 kHz by rotating DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+CTCSS Tx Deviation Adjustment (100) [29] (USA version only)
+Press the [V/M] button, then transmit and adjust the deviation for .6 kHz +-0.05 kHz by rotating DIAL, then press the [V/M] button. Rotate the DIAL to select the next setting.
+
+DCS Tx Deviation Adjustment (DCS) [30]
+Press the [V/M] button, then transmit and adjust the deviation for 0.8 kHz +-0.5kHz by rotating DIAL, then press the [V/M] button.
+
+This completes the internal alignment routine for all bands. To save all settings and exit, press the [HM/RV] button.

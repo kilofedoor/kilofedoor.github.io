@@ -1,0 +1,19 @@
+function CalcFreqFactor(Freq: Double; SampleRate: Double; PData: PSmallInt; SampleCount: Longint): Double;
+var  i          :	Longint;
+     fSin, fCos :	Extended;
+     fSinSum    : Double;
+     fCosSum    : Double;
+     d          : Double;
+begin
+     fSinSum  := 0.0;
+     fCosSum  := 0.0;
+     d        := 2 * Pi * Freq / SampleRate;
+     for i := 0 to SampleCount - 1 do
+     begin
+          SinCos(d * i, fSin, fCos);
+          fSinSum := fSinSum + pData^ * fSin;
+          fCosSum := fCosSum + pData^ * fCos;
+          Inc(pData);
+     end;
+     Result:= (abs(fSinSum) + abs(fCosSum)) / SampleCount;
+end;

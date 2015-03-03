@@ -1,0 +1,17 @@
+TS430s Transmitter Coverage Modifications:
+Few people will have legitimate reasons to transmit outside of the Amateur bands, but there is nevertheless considerable interest in the fact that some synthesised transceivers can be modified easily to do so. Consequently, there are various articles published on the internet which give general coverage transmission modifications for the TS-430S; and in keeping with the provenance of the information, most describe botches of varying horribleness. In particular, there is no need to crush or cut any diodes or resistors; and some of the suggested mods unwittingly remove the TX inhibit signals for frequencies below 1.6MHz, in which range the transmitter will either radiate strong spurious signals or self-destruct.
+
+The main legal restriction signals from the control unit are grouped on connector 10 on the RF board. The connector carries three logic signals: TXI, WRC, and PD, their descriptions being as follows:
+TXI	 TX Inhibit - out of amateur band.
+WRC	 TX Inhibit - out of WARC band
+PD	 Power down (ie, reduction) on 28MHz (for USA)
+
+
+The behaviour of these lines may vary depending on the serial number and country of purchase.
+Additional transmitter inhibit signals are derived from the receiver roofing-filter selection logic, on the RF board itself; these being used to prevent transmission in the range 0.15 to 1.6MHz, and to apply additional restrictions in regions where not all WARC bands are allocated. For M-type transceivers, regional WARC band restrictions can be removed by unplugging the white link-wire on the RF board (see the user manual, p22). Other versions do not have the WARC band restriction components fitted, and so transmit on all amateur bands without modification. When configured for full amateur use, the transmitter frequency coverage is as follows:
+1.6 - 2, 3 - 4, 6.9 - 7.5, 10 - 10.5, 13.9 - 15, 18 - 19, 20.9 - 22, 24 - 25, 27.9 - 30 MHz. 
+Note that that these ranges already give considerable coverage outside of the amateur bands, and place the onus on the operator to avoid unallocated frequencies. If you require additional coverage, removing the plug from connector 10 enables transmission at full power over the complete HF range from 1.6 to 30MHz. 
+
+The author has, for some time, used a TS430S (with connector 10 of the RF module unplugged) as a high-power 1.6 - 30MHz signal generator for the testing of transmission line bridges, current transformers, and matching networks. The only problem experienced is that the output at around 8.3MHz is unusable due to a strong spurious signal from the IF amplifier. This, of course, is all dummy-load work. A good look at the output with a spectrum analyser is recommended before using it on the air.
+
+Note that it is not necessary to remove plug 10 when using the transverter socket, since the transverter output is not affected by the legal restriction signals.

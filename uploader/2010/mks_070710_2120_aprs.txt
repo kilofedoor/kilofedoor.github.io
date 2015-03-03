@@ -1,0 +1,162 @@
+
+IZ7GEG RS0ISS       ....       u-frame 
+
+
+CQ     IZ7GEG RS0ISS       ....       u-frame 
+:BLNQSL1/1:PD0RKC,IW6ATQ-5,EA7IQM,GM3MZX,ON7EQ-6,HA3HT,YO8RBY{UISS52}
+
+IZ7GEG RS0ISS       ....       u-frame 
+
+
+IZ7GEG RS0ISS       ....       u-frame 
+
+
+CQ     RS0ISS SGATE        ....       u-frame 
+Welcome to RS0ISS's message board
+System Ver 1.50 101808 Bytes free
+
+
+TP1XLL SV2CPH RS0ISS ARISS        ....       u-frame 
+'1KEl -/]www.qsl.net/sv2cph=
+
+
+IZ7GEG RS0ISS       ....       u-frame 
+
+
+IZ7GEG RS0ISS       ....       i-frame   rs# 0 ss# 0
+Welcome to RS0ISS's message board
+System Ver 1.50 101808 Bytes free
+
+IZ7GEG RS0ISS       ....       s-frame   rs# 0
+APU25N UT1HZM RS0ISS       ....       u-frame 
+=4901.35N\03325.59E-SERGEJ
+
+
+IZ7GEG RS0ISS       ....       s-frame   rs# 0
+IZ7GEG RS0ISS       ....       s-frame   rs# 0
+IZ7GEG RS0ISS       ....       s-frame   rs# 0
+IZ7GEG RS0ISS       ....       s-frame   rs# 0
+IZ7GEG RS0ISS       ....       u-frame 
+
+
+IZ7GEG RS0ISS       ....       u-frame 
+
+
+IZ7GEG RS0ISS       ....       u-frame 
+
+
+CQ     RS0ISS SGATE        ....       u-frame 
+Welcome to RS0ISS's message board
+System Ver 1.50 101808 Bytes free
+
+
+IZ7GEG RS0ISS       ....       u-frame 
+
+
+CQ     PD0RKC RS0ISS       ....       u-frame 
+:YO8RBY   :Hellooooo Romania!!!!! pse QSL via bureau!
+
+APU25N UT1HZM RS0ISS       ....       u-frame 
+:PD0RKC   :Hi :-) {01
+
+
+APRS   YO8RBY RS0ISS       ....       u-frame 
+UISS 5.2.6 / Kantronics 9612+ / FT8800 / Sirio SA-270
+
+CQ     RS0ISS SGATE        ....       u-frame 
+>ARISS - International Space Station (BBS/APRS on)
+
+
+APU25N UT1HZM RS0ISS       ....       u-frame 
+:PD0RKC   :Hi :-) {01
+
+
+APU25N UT1HZM RS0ISS       ....       u-frame 
+:YO8RBY   :Hi :-) {02
+
+
+UP1Y01 SQ4FAF WIDE1  WIDE2        ....       u-frame 
+`3+oRhk/]"6m}
+
+
+APU25N UT1HZM RS0ISS       ....       u-frame 
+:YO8RBY   :Hi :-) {02
+
+
+APRS   UR4LRH RS0ISS W3ADO  BJ1SA  PCSAT  4XTECH WIDE         ....       u-frame 
+=4958.11N/03612.60E`->-CQ CQ CQ de UR4RH.->-17:28:26z
+
+
+APRS   UR4LRH RS0ISS W3ADO  BJ1SA  PCSAT  4XTECH WIDE         ....       u-frame 
+CQ CQ CQ de UR4LRH 4,6,7,8,9,0 rajonam via sputnik!
+
+
+APRS   UR4LRH RS0ISS W3ADO  BJ1SA  PCSAT  4XTECH WIDE         ....       u-frame 
+IGATE is ON! via UR4LRH-7
+
+4V1T21 HA3HT  RS0ISS WIDE         ....       u-frame 
+'-1Sl -/>op: Joska   vy 73!
+
+
+APRS   YO8RBY RS0ISS       ....       u-frame 
+:UT1HZM   :All the best to you and your's 73' Narcis YO8RBY/Piatra Neamt/Romania
+
+CQ     RS0ISS SGATE        ....       u-frame 
+>ARISS - International Space Station (BBS/APRS on)
+
+
+APRS   RV6FW  RS0ISS       ....       u-frame 
+=4447.20N/04409.30E-Budennovsk, Russia {UISS52}
+
+APU25N UT1HZM RS0ISS       ....       u-frame 
+:RV6FW    :Privet! {03
+
+
+APRS   RV6FW  RS0ISS       ....       u-frame 
+:UT1HZM   :ack03
+
+APRS   RV6FW  RS0ISS       ....       u-frame 
+:UT1HZM   :Hello...op. Vasiliy, Loc:LN24bs
+
+APRS   RV6FW  RS0ISS       ....       u-frame 
+:UT1HZM   :Hello...op. Vasiliy, Loc:LN24bs
+
+APRS   UR4LRH RS0ISS W3ADO  BJ1SA  PCSAT  4XTECH WIDE         ....       u-frame 
+:UT1HZM de UR4LRH: op. Nic, QTH is Kharkiv, loc. KN89CX.Be Happy 73!
+
+
+APRS   RV6FW  RS0ISS       ....       u-frame 
+:BLNQSL1/1:IW6ATQ-5,UR4LRH,UT1HZM{UISS52}
+
+APRS   UR4LRH RS0ISS W3ADO  BJ1SA  PCSAT  4XTECH WIDE         ....       u-frame 
+IGATE is ON! via UR4LRH-7
+
+APRS   RV6FW  RS0ISS       ....       u-frame 
+:UT1HZM   :Hello...op. Vasiliy, Loc:LN24bs
+
+APRS   RV6FW  RS0ISS       ....       u-frame 
+Hello via SAT!
+
+APRS   UR4LRH RS0ISS W3ADO  BJ1SA  PCSAT  4XTECH WIDE         ....       u-frame 
+=4958.11N/03612.60E`->-CQ CQ CQ de UR4LRH.->-17:30:45z
+
+
+APRS   RV6FW  RS0ISS       ....       u-frame 
+:UT1HZM   :Hello...op. Vasiliy, Loc:LN24bs
+
+APRS   RV6FW  RS0ISS       ....       u-frame 
+:UR4LRH   :Hello...op. Vasiliy, Loc:LN24bs
+
+APRS   RV6FW  RS0ISS       ....       u-frame 
+CQ de RV6FW
+
+APRS   UR4LRH RS0ISS W3ADO  BJ1SA  PCSAT  4XTECH WIDE         ....       u-frame 
+CQ CQ CQ de UR4LRH 4,6,7,8,9,0 rajonam via sputnik!
+
+
+APRS   UR4LRH RS0ISS W3ADO  BJ1SA  PCSAT  4XTECH WIDE         ....       u-frame 
+:UA1COD de UR4LRH: op. Nic, QTH is Kharkiv, loc. KN89CX.Be Happy 73!
+
+
+CQ     RK0IS3 SGATE        ....       u-frame 
+>ARISK - International Space Starion (BBS/APRS8ob)
